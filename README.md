@@ -1,2 +1,2 @@
 # Blog
-PHP blog(create + delete)
+PHP blog(create + delete + read)
